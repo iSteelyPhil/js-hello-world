@@ -5,8 +5,10 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, World!")
-console.log("42")
+console.log("43")
 console.log("Let's Code!")
+console.log("Faster!")
+console.log("\"Must Code Faster\"")
 
 /*  
 Next, PLAY! 
