@@ -8,7 +8,7 @@ console.log("Hello, World!")
 console.log("43")
 console.log("Let's Code!")
 console.log("Faster!")
-console.log("\"Must Code Faster\"")
+console.log("\"Must Code Faster!!\"")
 
 /*  
 Next, PLAY! 
